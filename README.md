@@ -38,7 +38,9 @@ Delivered full documentation and presentation materials for stakeholders
 
 Shubham Kuril
 📧 surywanshishubham49@gmail.com
+
 🔗 GitHub Profile
+https://github.com/SHUB0409
 
 🪪 License
 
