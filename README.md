@@ -9,7 +9,8 @@ Features include demographics, financial metrics, and six-month payment history
 
 🏆 Certificate of Completion
 
-View Certificate on The Forage →
+View Certificate on The Forage → https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_PCe4Em5BCXtihfhWN_1762019270534_completion_certificate.pdf
+
 
 🧰 Tools & Technologies
 
